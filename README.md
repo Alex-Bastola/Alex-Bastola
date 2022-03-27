@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hey 👋
 
-<!--
-**Alex-Bastola/Alex-Bastola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+Actions speak more than words please check my stats.
 
-Here are some ideas to get you started:
+## Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Bastola&layout=compact&theme=radical)
+<br>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Alex-Bastola&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Future Projects
+- [ ] Hobyist Operating System
+- [ ] Linux Command Line Shell
+- [ ] Github Repo Typo Finder
+- [ ] Liked Posts Hider for Twitter
+- [ ] General Purpose IDE
