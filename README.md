@@ -14,3 +14,4 @@ Actions speak more than words please check my stats.
 - [ ] Github Repo Typo Finder
 - [ ] Liked Posts Hider for Twitter
 - [ ] General Purpose IDE
+- [ ] Linux Distribution 
