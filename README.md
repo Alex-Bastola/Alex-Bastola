@@ -15,3 +15,5 @@ Actions speak more than words please check my stats.
 - [ ] Liked Posts Hider for Twitter
 - [ ] General Purpose IDE
 - [ ] Linux Distribution 
+- [ ] Repost Hidder for Reddit
+- [ ] Network Fetch
