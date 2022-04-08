@@ -17,3 +17,5 @@ Actions speak more than words please check my stats.
 - [ ] Linux Distribution 
 - [ ] Repost Hidder for Reddit
 - [ ] Network Fetch
+- [ ] TUI Music Player
+- [ ] 2D PLATFORMER Game
