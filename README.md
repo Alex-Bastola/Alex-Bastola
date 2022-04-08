@@ -18,4 +18,4 @@ Actions speak more than words please check my stats.
 - [ ] Repost Hidder for Reddit
 - [ ] Network Fetch
 - [ ] TUI Music Player
-- [ ] 2D PLATFORMER Game
+- [ ] 2D Platformer Game
