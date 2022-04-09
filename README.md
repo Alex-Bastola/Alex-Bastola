@@ -8,14 +8,14 @@ Actions speak more than words please check my stats.
 <br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Alex-Bastola&theme=radical)
 
-## Future Projects
-- [ ] Hobyist Operating System
-- [ ] Linux Command Line Shell
-- [ ] Github Repo Typo Finder
-- [ ] Liked Posts Hider for Twitter
-- [ ] General Purpose IDE
-- [ ] Linux Distribution 
-- [ ] Repost Hidder for Reddit
-- [ ] Network Fetch
-- [ ] TUI Music Player
-- [ ] 2D Platformer Game
+## Future Projects (In the order I do them)
+- [ ] Liked Posts Hider for Twitter (HTML,CSS,Javascript)
+- [ ] Repost Hidder for Reddit (HTML,CSS,Javascript)
+- [ ] Network Fetch (C)
+- [ ] Github Repo Typo Finder (Golang)
+- [ ] TUI Music Player (Rust)
+- [ ] Linux Command Line Shell (C)
+- [ ] 2D Platformer Game (C)
+- [ ] General Purpose IDE (HTML,CSS,Javascript)
+- [ ] Linux Distribution (ASM, C)
+- [ ] Hobyist Operating System (ASM, C)
