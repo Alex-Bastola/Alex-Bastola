@@ -17,5 +17,5 @@ Actions speak more than words please check my stats.
 - [ ] Linux Command Line Shell (C)
 - [ ] 2D Platformer Game (C)
 - [ ] General Purpose IDE (HTML,CSS,Javascript)
-- [ ] Linux Distribution (ASM, C)
-- [ ] Hobyist Operating System (ASM, C)
+- [ ] Linux Distribution (ASM,C)
+- [ ] Hobyist Operating System (ASM,C)
