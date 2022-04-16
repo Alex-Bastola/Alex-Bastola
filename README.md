@@ -9,8 +9,6 @@ Actions speak more than words please check my stats.
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Alex-Bastola&theme=radical)
 
 ## Future Projects (In the order I do them)
-- [ ] Liked Posts Hider for Twitter (HTML,CSS,Javascript)
-- [ ] Repost Hidder for Reddit (HTML,CSS,Javascript)
 - [ ] Network Fetch (C)
 - [ ] Github Repo Typo Finder (Golang)
 - [ ] TUI Music Player (Rust)
