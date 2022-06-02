@@ -9,9 +9,8 @@ Actions speak more than words please check my stats.
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Alex-Bastola&theme=radical)
 
 ## Future Projects (In the order I do them)
-- [ ] TUI Music Player (Rust)
+- [ ] Make a Small Retro Video Game
 - [ ] Linux Command Line Shell (C)
-- [ ] 2D Platformer Game (C)
 - [ ] General Purpose IDE (HTML,CSS,Javascript)
-- [ ] Linux Distribution (ASM,C)
+
 
